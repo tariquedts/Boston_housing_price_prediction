@@ -12,3 +12,7 @@ Create new environment
 '''
 conda create -p venv python==3.7 -y
 '''
+
+### make predictions using urllib
+http://127.0.0.1:5000/predict
+
